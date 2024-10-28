@@ -14,8 +14,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   question: What does "NY" stand for?
   answers:
-  - 
-  - 
-  - 
-  - 
+  - Never Yell
+  - New York
+  - New Yankee
+  - Never yield
   correctAnswerIndex: 0
